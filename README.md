@@ -133,11 +133,11 @@ When launching email campaigns, the system can automatically attach your product
 1. Place your PDF file into the `assets/` directory:
    ```bash
    # Example: Place your document in assets/
-   assets/Export_API_documentation.docx.pdf
+   assets/company_presentation.pdf
    ```
 2. In **Settings → Product Presentation Asset**:
-   - Set **Server Asset File Path**: `assets/Export_API_documentation.docx.pdf`
-   - Set **Outgoing Attachment Display Name**: `Export_API_documentation.docx.pdf` (or any custom name your recipients should see).
+   - Set **Server Asset File Path**: `assets/company_presentation.pdf`
+   - Set **Outgoing Attachment Display Name**: `company_presentation.pdf` (or any custom name your recipients should see).
 3. You can click **Inspect & Download Current PDF** in the Settings panel or navigation bar to preview the exact document that will be sent.
 
 ---
