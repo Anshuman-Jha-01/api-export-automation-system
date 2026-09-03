@@ -1,6 +1,6 @@
 {
-  "email": "anshumanjha4181@gmail.com",
-  "app_password": "wbosqtmpakdrtcfz",
+  "email": "sender_gmail",
+  "app_password": "sender_gmail_app_password",
   "smtp_host": "smtp.gmail.com",
   "smtp_port": 587,
   "use_ssl": false,
