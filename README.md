@@ -101,8 +101,8 @@ CC_MONITORING=""
 # ==============================================================================
 SEARCH_KEYWORD="Singing Bowls"
 DAILY_SEND_LIMIT="100"
-PRESENTATION_PATH="assets/Export_API_documentation.docx.pdf"
-PRESENTATION_FILENAME="Export_API_documentation.docx.pdf"
+PRESENTATION_PATH="company-presentation-file-path"
+PRESENTATION_FILENAME="company-presentation-filename"
 ```
 
 > **Note**: You can also update these credentials anytime directly from the **Settings** tab in the web application. Changes made in the UI are saved to `data/settings.json`.
