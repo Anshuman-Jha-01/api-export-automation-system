@@ -1,0 +1,18 @@
+{
+  "email": "anshumanjha4181@gmail.com",
+  "app_password": "wbosqtmpakdrtcfz",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "use_ssl": false,
+  "cc_monitoring": "",
+  "delay": 2,
+  "daily_send_limit": 100,
+  "search_keyword": "Singing Bowls",
+  "default_subject": "Handcrafted Singing Bowls — Direct Export Catalog & B2B Wholesale Pricing",
+  "default_body": "Dear {buyer_name},\n\nI hope this message finds you well at {company_name}.\n\nWe are premier Himalayan exporters of authentic hand-hammered 7-metal Singing Bowls, Healing Gong Sets, and 432Hz Quartz Crystal Bowls crafted by master artisan lineages in the Kathmandu Valley and northern India.\n\nHaving noticed your esteemed presence in {country}'s sound wellness and meditation space, we would love to share our latest 2026 Wholesale Export Catalog (attached) featuring exclusive B2B wholesale rates, sound-frequency testing certifications, and custom branding.\n\nPlease find the company presentation attached. Would you have 5 minutes next week for a brief conversation on sampling?\n\nWarm regards,\nExport Sales Team\nHimalayan Singing Bowls Export House",
+  "presentation_path": "assets/Export_API_documentation.docx.pdf",
+  "presentation_filename": "Export_API_documentation.docx.pdf",
+  "auto_classify": true,
+  "remove_duplicates": true,
+  "simulation_mode": false
+}

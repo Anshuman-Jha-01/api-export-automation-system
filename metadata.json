@@ -1,0 +1,6 @@
+{
+  "name": "API 3 — Export Automation System",
+  "description": "Automated buyer discovery, validation, AI classification, and Gmail campaign outreach system for Singing Bowls export businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
